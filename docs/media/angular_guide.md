@@ -170,7 +170,7 @@ AWS Amplifies provides UI components that you can use in your view templates.
 
 ### Authenticator
 
-The Authenticator component creates an drop-in user authentication experience. Add the `amplify-authenticator` component to your `app.component.html` view:
+The Authenticator component creates a drop-in user authentication experience. Add the `amplify-authenticator` component to your `app.component.html` view:
 
 ```html
   <amplify-authenticator></amplify-authenticator>
